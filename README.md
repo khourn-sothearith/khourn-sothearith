@@ -1,16 +1,137 @@
-## Hi there 👋
+# Hi there 👋, I'm Khourn Sothearith
 
-<!--
-**khourn-sothearith/khourn-sothearith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Information+Technology+Engineering+Student;Java+Developer+in+Progress;Web+Development+Enthusiast" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+🎓 Year 2 Information Technology Engineering Student
+
+🏫 Royal University of Phnom Penh (RUPP)
+
+💻 Passionate about Software Development, Database Design, and System Analysis
+
+🌱 Currently learning:
+
+- Java Programming
+- Java Swing
+- Database Management Systems
+- MySQL
+- Web Development
+- Object-Oriented Analysis & Design (OOAD)
+- Software Engineering
+
+🎯 Career Goal:
+
+Become a professional Software Engineer and build impactful software solutions that solve real-world problems.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Software
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
+
+---
+
+## 📚 Currently Learning
+
+- Object-Oriented Analysis & Design (OOAD)
+- UML Modeling
+- Java Swing Development
+- Software Engineering
+- Database Design
+- Networking Concepts
+- Git & GitHub Best Practices
+
+---
+
+## 🚀 Featured Projects
+
+### Don't have
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khourn-sothearith&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khourn-sothearith&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=khourn-sothearith&theme=github-dark-blue&hide_border=true)
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khourn-sothearith&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=f8fafc&area=true&hide_border=true)](https://github.com/khourn-sothearith)
+
+---
+
+## 🎯 2026 Goals
+
+- Master Java Programming
+- Learn Spring Boot
+- Build Full-Stack Applications
+- Improve Database Design Skills
+- Contribute to Open Source Projects
+- Complete More Real-World Projects
+- Strengthen Software Engineering Knowledge
+
+---
+
+## 💡 Interests
+
+- Software Development
+- Database Systems
+- Web Development
+- System Analysis & Design
+- Networking
+- Technology Innovation
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: khournsothearith465@gmail.com
+
+💼 LinkedIn: [Khourn Sothearith](https://www.linkedin.com/in/khourn-sothearith)
+
+🌐 Portfolio: Coming Soon
+
+---
+
+## ✨ Favorite Quote
+
+> "Success is the sum of small efforts, repeated day in and day out."
+
+---
+
+⭐ Thanks for visiting my profile!
