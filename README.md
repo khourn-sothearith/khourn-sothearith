@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Khourn Sothearith
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Information+Technology+Engineering+Student;Java+Developer+in+Progress;Web+Development+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Information+Technology+Engineering+Student;Web+Development" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Year 2 Information Technology Engineering Student
+🎓 Year 3 Information Technology Engineering Student
 
 🏫 Royal University of Phnom Penh (RUPP)
 
@@ -62,28 +62,14 @@ Become a professional Software Engineer and build impactful software solutions t
 
 ## 📚 Currently Learning
 
-- Object-Oriented Analysis & Design (OOAD)
-- UML Modeling
-- Java Swing Development
-- Software Engineering
-- Database Design
-- Networking Concepts
-- Git & GitHub Best Practices
-
+- Information Technology Engineering
 ---
 
 ## 🚀 Featured Projects
 
-### Don't have
+### Coming Soon 
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khourn-sothearith&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khourn-sothearith&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ## 🔥 Contribution Streak
 
@@ -97,8 +83,6 @@ Become a professional Software Engineer and build impactful software solutions t
 
 ## 🎯 2026 Goals
 
-- Master Java Programming
-- Learn Spring Boot
 - Build Full-Stack Applications
 - Improve Database Design Skills
 - Contribute to Open Source Projects
