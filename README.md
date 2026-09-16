@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Khourn Sothearith
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Information+Technology+Engineering+Student;Web+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Information+Technology+Engineering+Student;Full+Stack+Web+Development" />
 </p>
 
 ---
@@ -56,7 +56,6 @@ Become a professional Software Engineer and build impactful software solutions t
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
 
 ---
 
@@ -74,10 +73,6 @@ Become a professional Software Engineer and build impactful software solutions t
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=khourn-sothearith&theme=github-dark-blue&hide_border=true)
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khourn-sothearith&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=f8fafc&area=true&hide_border=true)](https://github.com/khourn-sothearith)
 
 ---
 
