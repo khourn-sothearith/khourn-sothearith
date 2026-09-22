@@ -52,9 +52,18 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=khourn-sothearith&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=khourn-sothearith&theme=dark&hide_border=false" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.shion.dev/api?username=khourn-sothearith&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      </td>
+      <!-- This empty column creates the space between the boxes -->
+      <td width="20"></td> 
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=khourn-sothearith&theme=dark&hide_border=false" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
@@ -62,15 +71,14 @@
 </p>
 
 
+
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals
 
 - Build Full-Stack Applications
-- Improve Database Design Skills
 - Contribute to Open Source Projects
 - Complete More Real-World Projects
-- Strengthen Software Engineering Knowledge
 
 ---
 
