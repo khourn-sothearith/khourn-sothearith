@@ -14,44 +14,23 @@
 
 💻 Passionate about Software Development, Database Design, and System Analysis
 
-🌱 Currently learning:
+🌱 Currently learning: Full Stack Web Development
 
-- Java Programming
-- Java Swing
-- Database Management Systems
-- MySQL
-- Web Development
-- Object-Oriented Analysis & Design (OOAD)
-- Software Engineering
-
-🎯 Career Goal:
-
-Become a professional Software Engineer and build impactful software solutions that solve real-world problems.
+🎯 Career Goal: Become a professional Software Engineer and build impactful software solutions that solve real-world problems.
 
 ---
 
-## 🛠️ Technical Skills
-
-### Programming Languages
+## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend Development
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Database
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Software
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -70,9 +49,18 @@ Become a professional Software Engineer and build impactful software solutions t
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=khourn-sothearith&theme=github-dark-blue&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=khourn-sothearith&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=khourn-sothearith&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=khourn-sothearith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+</p>
+
 
 ---
 
@@ -89,11 +77,9 @@ Become a professional Software Engineer and build impactful software solutions t
 ## 💡 Interests
 
 - Software Development
-- Database Systems
 - Web Development
 - System Analysis & Design
-- Networking
-- Technology Innovation
+- New Technology
 
 ---
 
@@ -111,6 +97,9 @@ Become a professional Software Engineer and build impactful software solutions t
 
 > "Success is the sum of small efforts, repeated day in and day out."
 
----
-
 ⭐ Thanks for visiting my profile!
+
+---
+[![](https://komarev.com/ghpvc/?username=khourn-sothearith&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
