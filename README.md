@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-🎓 Year 3 Information Technology Engineering Student
+🎓 Information Technology Engineering Student
 
 🏫 Royal University of Phnom Penh (RUPP)
 
-💻 Passionate about Software Development, Database Design, and System Analysis
+💻 Passionate about Software Development, Web Development
 
 🌱 Currently learning: Full Stack Web Development
 
@@ -41,11 +41,31 @@
 ## 📚 Currently Learning
 
 - Information Technology Engineering
+- Full Stack Web Development
+  
 ---
 
 ## 🚀 Featured Projects
 
-### Coming Soon 
+<table>
+<tr>
+  <td>
+  
+  ### 💳 ABA Pay Me
+  
+  > A simple web application for sharing an ABA payment QR code.
+  
+  **Status:** 🟢 Live
+  
+  **Tech:**  
+  `HTML` `CSS` `JavaScript`
+  
+  🔗 [Live Demo](https://khourn-sothearith.github.io/ABA-Pay-Me/)  💻 [GitHub](https://github.com/khourn-sothearith/ABA-Pay-Me)
+  
+  
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -58,7 +78,7 @@
         <img src="https://github-readme-stats.shion.dev/api?username=khourn-sothearith&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
       </td>
       <!-- This empty column creates the space between the boxes -->
-      <td width="20"></td> 
+      <td width="10"></td> 
       <td>
         <img src="https://streak-stats.demolab.com/?user=khourn-sothearith&theme=dark&hide_border=false" />
       </td>
@@ -69,7 +89,6 @@
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=khourn-sothearith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 </p>
-
 
 
 ---
@@ -108,6 +127,6 @@
 ⭐ Thanks for visiting my profile!
 
 ---
-[![](https://komarev.com/ghpvc/?username=khourn-sothearith&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=khourn-sothearith&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/khourn-sothearith)
 
 
